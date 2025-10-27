@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepthy Chullikkatt Kunjachan  
 
-<!--
-**deep19901985/deep19901985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | BI Developer | AI Automation Enthusiast**  
+📍 Based in London, UK  
 
-Here are some ideas to get you started:
+I’m passionate about using **AI and data analytics** to solve real-world problems — from automation to financial insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tools & Technologies  
+- **Languages:** Python, SQL, DAX, R  
+- **Data & Visualization:** Power BI, Sisense, Excel  
+- **AI & Automation:** OpenAI API, n8n, LangChain, Pinecone  
+- **Big Data Tools:** Hadoop, Spark, Kafka  
+- **Cloud & Databases:** Azure, Supabase, Google Sheets  
+
+---
+
+### 🚀 Featured Projects  
+- 🧩 **AI Customer Assistant Chatbot** – Built using n8n + OpenAI + Pinecone for multi-platform deployment (Telegram, WhatsApp, Web)  
+- 📊 **Power BI Analytics Dashboards** – Created dynamic dashboards for sales and operational data with row-level security  
+- 🧠 **Housing Price Prediction with Imputation Techniques** – MSc research project improving data quality using KNN-RF hybrid model  
+- 🪙 **Financial AI Hackathon Project (Upcoming)** – Working on AI-driven automation for financial insights  
+
+---
+
+### 🌱 Currently Learning  
+- PL-300 Power BI Certification  
+- AI Agent Development using Autogen & LangChain  
+- Financial AI applications  
+
+---
+
+📫 **Let’s connect:**  
+[LinkedIn](https://https://www.linkedin.com/in/deepthyck/) | [Email](mailto:deepthy2k@gmail.com)
