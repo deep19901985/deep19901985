@@ -33,7 +33,6 @@ Recently, I’ve been building AI systems using LLMs and RAG architectures, wher
 ### 🌱 Currently Learning  
 - PL-300 Power BI Certification  
 - AI Agent Development using Autogen & LangChain  
-- Financial AI applications  
 
 ---
 
