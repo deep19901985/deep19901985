@@ -27,7 +27,7 @@ Built a customer-assistance workflow combining LLMs and vector retrieval. Explor
 ### Voice AI Mental Health Triage: ElevenLabs Worldwide Hackathon, London
 *December 2025 · Third prize, London*
 
-Contributed **prompt design, conversation-flow design and AI interaction testing** to a voice AI mental-health triage prototype developed by the team.
+Contributed **prompt design, conversation-flow design and AI interaction testing** to a voice AI mental-health triage prototype which placed third in London.
 
 ### 🧠 Additional Projects
 
