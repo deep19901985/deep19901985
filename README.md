@@ -1,40 +1,19 @@
-# 👋 Hi, I'm Deepthy Chullikkatt Kunjachan  
+# 👋 Hi, I'm Deepthy Chullikkatt Kunjachan
 
-🎯 **Data Analyst → AI Systems & AI Safety (RAG, LLMs, Automation)**  
-📍 Based in London, UK  
+**Data Analytics & BI | Analytics Engineering | Data Engineering | Applied AI**
 
-I’m passionate about using **AI and data analytics** to solve real-world problems - from automation to financial insights.
+📍 London, UK · [LinkedIn](https://www.linkedin.com/in/deepthyck/) · [Email](mailto:deepthy2k@gmail.com)
 
-Recently, I’ve been building AI systems using LLMs and RAG architectures, where I encountered challenges such as hallucinations and inconsistent outputs. This has led me to focus on improving the reliability of AI systems through structured retrieval and more robust system design.
+I'm a **Data Analytics and Business Intelligence professional with 4.5+ years of commercial experience**, now focusing on analytics engineering, modern data platforms, and applied AI.
 
----
+At **Buck (Gallagher)**, I built enterprise reporting solutions and data models using SQL, Sisense, JavaScript, and Power BI. Today, I'm extending that experience through hands-on projects with **Python, PySpark, Databricks, Delta Lake, and retrieval-augmented generation (RAG)**.
 
-### 🧰 Tools & Technologies  
-- **Languages:** Python, SQL, DAX, R  
-- **Data & Visualization:** Power BI, Sisense, Excel  
-- **AI & Automation:** OpenAI API, n8n, LangChain, Pinecone  
-- **Big Data Tools:** Hadoop, Spark, Kafka  
-- **Cloud & Databases:** Azure, Supabase, Google Sheets  
+## 🚀 Featured Projects
 
----
-### 🚀 Featured Projects  
+### 📊 [Sanchari — YouTube Analytics Data Engineering](https://github.com/deep19901985/sanchari-youtube-analytics)
 
-- 🧩 **AI Customer Assistant Chatbot** – Built using n8n workflows, OpenAI APIs, and vector-based retrieval (Pinecone) for multi-platform deployment (Telegram, WhatsApp, Web).
+**Python · PySpark · Databricks · Delta Lake · Unity Catalog · GitHub Actions**
 
-- 🎙️ **Voice AI Mental Health Triage System (Hackathon Project)** – Built during the ElevenLabs × Anam Worldwide Hackathon (London), integrating voice biometrics, digital human interaction, and conversational AI for mental health support use cases.  
-  🏆 Selected as a winning/featured project in the hackathon showcase.
+A hands-on lakehouse pipeline using YouTube Data and Analytics APIs.
 
-- 📊 **Power BI Analytics Dashboards** – Created dynamic dashboards for sales and operational data with row-level security  
-
-- 🧠 **Housing Price Prediction with Imputation Techniques** – MSc research project improving data quality using KNN-RF hybrid model   
-
----
-
-### 🌱 Currently Learning  
-- PL-300 Power BI Certification  
-- AI Agent Development using Autogen & LangChain  
-
----
-
-📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/deepthyck/) | [Email](mailto:deepthy2k@gmail.com)
+- Implemented historical backfills, incremental **API extraction**, and Bronze/Silver Delta Lake processing with PySpark, data-quality
