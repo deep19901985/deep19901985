@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Deepthy Chullikkatt Kunjachan
 
-**Data Analytics & BI | Analytics Engineering | Data Engineering | Applied AI**
-
+**Data Analytics & BI | Analytics Engineering | Data Engineering | Applied AI**  
 📍 London, UK · [LinkedIn](https://www.linkedin.com/in/deepthyck/) · [Email](mailto:deepthy2k@gmail.com)
 
 I'm a **Data Analytics and Business Intelligence professional with 4.5+ years of commercial experience**, now expanding into analytics engineering, data engineering and applied AI.
@@ -11,7 +10,6 @@ At **Buck (Gallagher)**, I developed enterprise dashboards, SQL-based data model
 ## 🚀 Featured Projects
 
 ### 📊 [Sanchari — YouTube Analytics Data Engineering](https://github.com/deep19901985/sanchari-youtube-analytics)
-
 *Python · PySpark · Databricks · Delta Lake · Unity Catalog · GitHub Actions*
 
 A hands-on lakehouse project using YouTube Data and Analytics APIs.
@@ -22,16 +20,14 @@ A hands-on lakehouse project using YouTube Data and Analytics APIs.
 - **Planned next:** dbt Gold dimensional models, Databricks Jobs and Power BI reporting.
 
 ### 🧩 AI Customer Assistant — RAG & Automation
-
 *n8n · OpenAI API · Pinecone · LangChain*
 
 Built a customer-assistance workflow combining LLMs and vector retrieval. Explored Telegram, WhatsApp and web integrations, with attention to retrieval relevance and response consistency.
 
-### 🎙️ Voice AI Mental Health Triage — ElevenLabs Worldwide Hackathon
+### Voice AI Mental Health Triage: ElevenLabs Worldwide Hackathon, London
+*December 2025 · Third prize, London*
 
-*London · December 2025 · Third prize (London)*
-
-Contributed **prompt design, conversation-flow design and AI interaction testing** to a voice AI mental-health triage prototype. The team placed **third in London**.
+Contributed **prompt design, conversation-flow design and AI interaction testing** to a voice AI mental-health triage prototype developed by the team.
 
 ### 🧠 Additional Projects
 
@@ -45,7 +41,7 @@ Contributed **prompt design, conversation-flow design and AI interaction testing
 - Developed and maintained **100+ dashboards** across HR, finance and operations.
 - Built Sisense Elasticube data models and SQL-based reporting for international enterprise clients.
 - Contributed to a Windows-to-Linux reporting platform migration that reduced maintenance effort by approximately **25%**.
-- Mentored five colleagues and contributed to Agile delivery.
+- Mentored five colleagues and worked across Agile delivery teams.
 
 ## 🛠️ Technical Skills
 
@@ -60,9 +56,13 @@ Contributed **prompt design, conversation-flow design and AI interaction testing
 - **MSc Data Science** — Nottingham Trent University
 - **DataCamp Data Engineer Associate** (2025)
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)** (2024)
-- **Databricks Lakeflow knowledge badges** (2026)
+- **Databricks Knowledge Badges** (2026):
+  - Build Data Pipelines with Lakeflow Spark Declarative Pipelines
+  - Deploy Workloads with Lakeflow Jobs
+  - Data Ingestion with Lakeflow Connect
 
-**Working towards:** Databricks Certified Data Engineer Associate and Microsoft DP-600; PL-300 is on my roadmap.
+**Certifications in progress:** Databricks Certified Data Engineer Associate; Microsoft Fabric DP-600.  
+**Planned:** Microsoft Power BI PL-300.
 
 ---
 
