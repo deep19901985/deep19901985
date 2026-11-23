@@ -1,68 +1,69 @@
-Here's the modified README. Changes are limited to what we've agreed: the title line matches the CV, the hackathon wording is consistent, the Databricks credentials are named, the "Current focus" line no longer claims a pass you haven't achieved, and "records" is used throughout. Items in [brackets] need your input.
+# 👋 Hi, I'm Deepthy Chullikkatt Kunjachan
 
----
-
-👋 Hi, I'm Deepthy Chullikkatt Kunjachan
-
-**Analytics Engineer | Data Engineering | Applied AI | London, UK**
+**Data Analytics & BI | Analytics Engineering | Data Engineering | Applied AI**
 
 📍 London, UK · [LinkedIn](https://www.linkedin.com/in/deepthyck/) · [Email](mailto:deepthy2k@gmail.com)
 
-I'm a Data Analytics and Business Intelligence professional with 4.5+ years of commercial experience, now focusing on analytics engineering, modern data platforms and applied AI.
+I'm a **Data Analytics and Business Intelligence professional with 4.5+ years of commercial experience**, now expanding into analytics engineering, data engineering and applied AI.
 
-At Buck (Gallagher), I built enterprise reporting solutions and data models using SQL, Sisense, JavaScript and Power BI. I'm now extending that experience through hands-on projects with Python, PySpark, Databricks, Delta Lake and retrieval-augmented generation (RAG).
+At **Buck (Gallagher)**, I developed enterprise dashboards, SQL-based data models and reporting solutions using **Sisense, Power BI, JavaScript and C#**. My current focus is building reliable data pipelines with **Python, PySpark, Databricks and Delta Lake**, alongside AI applications using **LLMs, RAG and automation**.
 
-## Featured projects
+## 🚀 Featured Projects
 
-### Sanchari: YouTube Analytics Data Engineering
-Python · PySpark · Databricks · Delta Lake · Unity Catalog · GitHub Actions
+### 📊 [Sanchari — YouTube Analytics Data Engineering](https://github.com/deep19901985/sanchari-youtube-analytics)
 
-A hands-on lakehouse pipeline using YouTube Data and Analytics APIs.
-- Implemented historical backfills, incremental API extraction, and Bronze/Silver Delta Lake processing with PySpark, data-quality checks, deduplication and MERGE logic.
-- Processed 37,327 Bronze records into 36,251 unique Silver records, reconciling 1,076 overlapping observations.
-- Verified repeatable MERGE behaviour and added automated Python tests with GitHub Actions.
-- Next: dbt Gold dimensional models, Databricks Jobs and Power BI reporting.
+*Python · PySpark · Databricks · Delta Lake · Unity Catalog · GitHub Actions*
 
-### AI Customer Assistant: RAG & Automation
-n8n · OpenAI API · Pinecone · LangChain
+A hands-on lakehouse project using YouTube Data and Analytics APIs.
 
-Built a customer-assistance workflow combining LLMs with vector-based retrieval. Explored Telegram, WhatsApp and web integrations, with a focus on grounded and consistent responses.
+- Implemented historical backfills, **incremental API extraction**, and Bronze/Silver Delta processing with data-quality checks, deduplication and Delta `MERGE`.
+- Processed **37,327 Bronze records into 36,251 unique Silver records**, reconciling **1,076 overlapping observations**.
+- Validated repeatable `MERGE` behaviour and added automated Python tests through GitHub Actions.
+- **Planned next:** dbt Gold dimensional models, Databricks Jobs and Power BI reporting.
 
-### Voice AI Mental Health Triage: Hackathon Prototype
-Conversational AI · Voice interfaces · Digital humans
+### 🧩 AI Customer Assistant — RAG & Automation
 
-Co-developed a voice-based mental-health triage prototype at the ElevenLabs × Anam hackathon, London. Third prize at the London event. [Confirm your role and add the event date.]
+*n8n · OpenAI API · Pinecone · LangChain*
 
-### Other work
-- **Family Companion AI:** Parenting assistant prototype exploring privacy, human oversight and responsible AI (OpenAI Build Week, 2026).
-- **MSc research, House Price Prediction:** Investigated KNN and Random Forest imputation methods and their impact on predictive performance.
+Built a customer-assistance workflow combining LLMs and vector retrieval. Explored Telegram, WhatsApp and web integrations, with attention to retrieval relevance and response consistency.
 
-## Professional background
+### 🎙️ Voice AI Mental Health Triage — ElevenLabs Worldwide Hackathon
 
-**Senior Software Engineer, Data Analytics | Buck (Gallagher), 2019–2023**
-- Developed and maintained 100+ BI dashboards across HR, finance and operations.
-- Built Sisense Elasticube models and SQL-based reporting solutions for international enterprise clients.
-- Contributed to a Windows-to-Linux reporting platform migration that reduced maintenance effort by approximately 25%.
-- Mentored five colleagues and worked across Agile delivery teams.
+*London · December 2025 · Third prize (London)*
 
-## Tools & technologies
+Contributed **prompt design, conversation-flow design and AI interaction testing** to a voice AI mental-health triage prototype. The team placed **third in London**.
+
+### 🧠 Additional Projects
+
+- **Family Companion AI (OpenAI Build Week 2026):** Explored a privacy-conscious parenting assistant with human oversight and safety boundaries.
+- **House Price Prediction (MSc research):** Evaluated KNN and Random Forest imputation approaches and their effect on predictive accuracy.
+
+## 💼 Professional Experience
+
+**Senior Software Engineer — Data Analytics | Buck (Gallagher) | 2019–2023**
+
+- Developed and maintained **100+ dashboards** across HR, finance and operations.
+- Built Sisense Elasticube data models and SQL-based reporting for international enterprise clients.
+- Contributed to a Windows-to-Linux reporting platform migration that reduced maintenance effort by approximately **25%**.
+- Mentored five colleagues and contributed to Agile delivery.
+
+## 🛠️ Technical Skills
+
 - **Analytics & BI:** SQL, Power BI, DAX, Sisense, Excel, data modelling
-- **Data engineering:** Python, PySpark, Databricks, Delta Lake, Unity Catalog, ETL/ELT, data quality
-- **AI & automation:** OpenAI API, RAG, n8n, LangChain, Pinecone
-- **Development & cloud:** JavaScript, C#, Git, GitHub Actions, Microsoft Azure, Supabase
-- **Currently learning:** dbt, Microsoft Fabric, Databricks orchestration and monitoring
+- **Data Engineering:** Python, PySpark, Databricks, Delta Lake, Unity Catalog, ETL/ELT, data quality, GitHub Actions
+- **AI & Automation:** OpenAI API, RAG, n8n, LangChain, Pinecone
+- **Programming & Cloud:** JavaScript, C#, Microsoft Azure, Git, Supabase
+- **Currently learning:** dbt, Microsoft Fabric and data pipeline orchestration
 
-## Education & credentials
-- MSc Data Science, Nottingham Trent University
-- DataCamp Data Engineer Associate (2025)
-- Microsoft Certified: Azure AI Fundamentals (AI-900, 2024)
-- Databricks Knowledge Badges (2026): Build Data Pipelines with Lakeflow Spark Declarative Pipelines; Deploy Workloads with Lakeflow Jobs; Data Ingestion with Lakeflow Connect
+## 🎓 Education & Credentials
 
-**Working towards:** Databricks Certified Data Engineer Associate, Microsoft DP-600 and PL-300.
+- **MSc Data Science** — Nottingham Trent University
+- **DataCamp Data Engineer Associate** (2025)
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)** (2024)
+- **Databricks Lakeflow knowledge badges** (2026)
+
+**Working towards:** Databricks Certified Data Engineer Associate and Microsoft DP-600; PL-300 is on my roadmap.
 
 ---
 
-**Before you publish:**
-- Replace the bracketed note with your confirmed role and event date, or delete it.
-- Check "Gallagher" matches how your employer appears on your records.
-- Keep the README and CV wording identical wherever they describe the same project.
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/deepthyck/) · [Email](mailto:deepthy2k@gmail.com)
